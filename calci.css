@@ -1,0 +1,35 @@
+.col-md-6 {
+    border: 5px solid black;
+    border-radius: 10px;
+}
+h1{
+    font-family: cursive;
+    color: blue;
+    font-weight: bold;
+}
+
+
+td:active {
+    background-color: red;
+    box-shadow: 0 5px rgb(123, 11, 11);
+    transform: translateY(4px);
+  }
+body {
+    background-image: url("calci.jpg");
+    text-align: center;
+    margin-top: 115px
+}
+
+input[type="button"] {
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 100%;
+    background-color:lime;
+}
+
+input[type="text"] {
+    width: 100%;
+    border: 3px solid black;
+   
+}
+
